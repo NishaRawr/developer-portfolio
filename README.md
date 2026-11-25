@@ -13,11 +13,13 @@
 
 ---
 
-## Current Skills~~~
-Python       [█████░░░░░] 50%
-Linux / Bash [████░░░░░░] 40%
-Git / GitHub [█████░░░░░] 50%
-~~~
+## Current Skills
+
+| Skill | Progress | Level |
+|-------|----------|-------|
+| Python | █████░░░░░ | 50% |
+| Linux / Bash | ████░░░░░░ | 40% |
+| Git / GitHub | █████░░░░░ | 50% |
 
 ---
 
